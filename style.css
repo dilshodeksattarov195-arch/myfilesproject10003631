@@ -1,0 +1,8 @@
+body { background: #80cfe3; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 46px; display: flex; }
+.block-sms-0 { color: #4e8bc; font-size: 17px; margin-bottom: 5px; }
+.block-invoice-1 { color: #e0be8b; font-size: 17px; margin-bottom: 5px; }
+.block-config-2 { color: #75075e; font-size: 20px; margin-bottom: 5px; }
+.block-user-3 { color: #1d2307; font-size: 21px; margin-bottom: 5px; }
+.block-payment-4 { color: #cf3273; font-size: 16px; margin-bottom: 5px; }
+.block-shipping-5 { color: #373f52; font-size: 20px; margin-bottom: 5px; }
