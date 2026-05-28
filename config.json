@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userconnect",
+        "uuid": 8275049,
+        "checksum": "0k3jqa"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
